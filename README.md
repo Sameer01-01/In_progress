@@ -2,8 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!!+%F0%9F%91%8B;+I'm+QuantumHamza2!+%F0%9F%98%89" />
 </h1>
 
-# 💫 About Me:
-I'm a Frontend Web Developer diving deep into the MERN stack 🌐<br>I spend half of my time debugging and the other half learning something new. 😄
+# ✨ About Me:
+I'm a Fullstack Dev!! 
 
 ## 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ysameer_001) 
